@@ -16,3 +16,8 @@ button {
 a {
   cursor: pointer;
 }
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(30, 32, 36);
+}
